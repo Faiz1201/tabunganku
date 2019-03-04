@@ -42,7 +42,7 @@
             android:textIsSelectable="true"
             android:selectAllOnFocus="true"
             android:focusableInTouchMode="true"/>
-        
+
         <TextView
             android:id="@+id/tv_error_password"
             android:layout_width="match_parent"
